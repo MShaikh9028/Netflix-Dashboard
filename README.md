@@ -1,1 +1,1 @@
-# Netflix-Dashboard
+Developed an interactive Power BI dashboard to analyze Netflix data, focusing on trends in content performance, viewer preferences, and regional engagement. Key insights helped identify popular genres, peak viewing times, ratings, description, Movies & TV shows distribution, release dates, and regional content demand, enabling data-driven recommendations for content strategy.# Netflix-Dashboard
